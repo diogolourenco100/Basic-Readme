@@ -32,7 +32,12 @@ py script.py
 ```
 
 # How to use
-## Topic
+## Topic 1
+- 1
+- 2
+- 3
+
+## Topic 2
 - 1
 - 2
 - 3
